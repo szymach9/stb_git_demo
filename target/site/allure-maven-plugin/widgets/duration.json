@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c1b5fa618fc2e523",
+  "name" : "readAllUsers()",
+  "time" : {
+    "start" : 1658152791952,
+    "stop" : 1658152794637,
+    "duration" : 2685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

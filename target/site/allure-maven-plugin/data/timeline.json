@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "pl02-0100wlwvm4",
+    "children" : [ {
+      "name" : "8460@pl02-0100wlwvm4.main(1)",
+      "children" : [ {
+        "name" : "readAllUsers()",
+        "uid" : "c1b5fa618fc2e523",
+        "parentUid" : "2613c43aeaca5589bc4ebabb89330880",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658152791952,
+          "stop" : 1658152794637,
+          "duration" : 2685
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2613c43aeaca5589bc4ebabb89330880"
+    } ],
+    "uid" : "f6107937d6bd411be4337644f9771733"
+  } ]
+}
